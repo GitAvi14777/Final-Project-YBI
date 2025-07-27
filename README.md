@@ -4,14 +4,6 @@
 ## 📌 Objective
 To build a machine learning model that predicts whether the daily financial market news sentiment is **positive (1)** or **negative (0)** based on 25 headlines per day.
 
----
-
-## 📁 Dataset
-- Source: [YBI Foundation Dataset](https://github.com/YBI-Foundation/Dataset/blob/main/Financial%20Market%20News.csv)
-- 4101 rows × 27 columns:
-  - 1 Date column
-  - 1 Label column (target)
-  - 25 headline columns (features)
 
 ---
 
